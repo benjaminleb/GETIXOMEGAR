@@ -1,3 +1,23 @@
+dist/*
+build/*
+build.xml
+nbproject/*
+!nbproject/project.properties
+!nbproject/project.xml
+/GETIX02-ejb/dist/*
+/GETIX02-ejb/build/*
+/GETIX02-ejb/build.xml
+/GETIX02-ejb/nbproject/*
+!/GETIX02-ejb/nbproject/project.properties
+!/GETIX02-ejb/nbproject/project.xml
+/GETIX02-war/dist/*
+/GETIX02-war/build/*
+/GETIX02-war/build.xml
+/GETIX02-war/nbproject/*
+!/GETIX02-war/nbproject/project.properties
+!/GETIX02-war/nbproject/project.xml
+
+
 *.class
 
 # Mobile Tools for Java (J2ME)
